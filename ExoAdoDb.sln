@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ExoAdoDb", "ExoAdoDb.sqlproj", "{746B9A84-4D0A-4115-A8BC-0070050D880D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoAdoConsole", "..\ExoAdoConsole\ExoAdoConsole.csproj", "{5DFD57F9-7CF4-4FA1-AC58-AF4F375EB21E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{746B9A84-4D0A-4115-A8BC-0070050D880D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{746B9A84-4D0A-4115-A8BC-0070050D880D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{746B9A84-4D0A-4115-A8BC-0070050D880D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5DFD57F9-7CF4-4FA1-AC58-AF4F375EB21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFD57F9-7CF4-4FA1-AC58-AF4F375EB21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFD57F9-7CF4-4FA1-AC58-AF4F375EB21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFD57F9-7CF4-4FA1-AC58-AF4F375EB21E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
